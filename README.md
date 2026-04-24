@@ -1,5 +1,5 @@
 # 2018 DockerCon Hands On Labs
-Hands on Labs for DockerCon US 2018
+Hands on Labs for DockerCon US 2018 - Test Change
 
 Open one of these links in a new browser window to use Docker Enterprise Edition with these labs.
 
